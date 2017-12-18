@@ -1,7 +1,7 @@
 {
   "mainHeader": "Events",
   "text": "No current events at this time.",
-  "scheduleHeader": "Schedule:",
+  "scheduleHeader": "Days of Event:",
   "admissionHeader": "Admission:",
 
   "exhibition/admission": "Free",
